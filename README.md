@@ -18,3 +18,5 @@ Testen Sie unseren Service unverbindlich auf Ihrem Smart-TV, Firestick oder Nvid
 
 ---
 Service-Hinweis: Optimiert für Glasfaser- und Kabel-Internet in Bayern.
+
+Related Guides: [IPTV Optimierung für Nvidia Shield Pro (Deutschland 2026)](https://github.com/Tvnews420-creator/IPTV-Nvidia-Shield-Germany-2026-Optimization./blob/main/README.md) | [Telekom/Vodafone Sperre Umgehen](https://github.com/Tvnews420-creator/IPTV-Telekom-Vodafone-Sperre-Umgehen-2026-L-sung)
